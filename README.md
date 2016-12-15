@@ -17,3 +17,5 @@ Future world
 🎎 Shogan world
 
 Ninja world
+
+Jurasic World
