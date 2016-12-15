@@ -15,3 +15,5 @@ Hello Dolores
 Future world
 
 🎎 Shogan world
+
+Ninja world
